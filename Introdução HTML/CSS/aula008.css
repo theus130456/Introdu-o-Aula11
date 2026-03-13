@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: rgb(9, 9, 116);/* muda cor do fundo */
+    color: red; /* cor da letra */
+    border-radius: 20px; /* arredonda a borda */
+    text-align: center; /* centraliza texto */
+}
+
+h2{
+    text-shadow: 2px 2px 4px rgb(24, 3, 143);
+}
+h1{
+    background-color: rgb(23, 34, 180);/* muda de cor */
+    color: black;/* cor da letra */
+    border-radius: 20px; /* arredonda a borda */
+    text-align: center;/* centraliza texto */
+}
+#texto-verde{
+    background-color: green;
+}
+
+#texto-rosa{
+    color: pink;
+}
+.texto-azul{
+    color: blue;
+}
